@@ -12,7 +12,7 @@
 |-------|---------|
 | **Title** | Latidos heridos |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-heridos/) |
 | **License** | [View License](./LICENSE.md) |
 | **Get License** | [Request Licensing for Latidos heridos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-heridos/) |
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Baby, la noche es nuestra y la calle nos llama
-> Siento la tensión cuando te acercas a mi cama
-> Tus ojos dicen lo que tu boca siempre calla
-> Un juego oscuro donde el deseo ahora estalla
+> Tus latidos heridos me llaman otra vez
+> Bailando entre sombras, no hay nada que perder
+> Tu piel es un mapa que quiero recorrer
+> Esta noche es nuestra, no voy a retroceder
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
