@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-heridos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Latidos heridos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-heridos/) |
+| **Get License** | [Obtain a Music License for Latidos heridos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-heridos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `379a4cb83da8adfd1633b31a4e36c4e7599244480482f00e3a901206f7b031bd` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

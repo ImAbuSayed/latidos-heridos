@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latidos heridos
+
+This log tracks the cryptographic history and versioning for the song **Latidos heridos** (latidos-heridos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T00:32:33.058472 | `v1` | `379a4cb83da8adfd1633b31a4e36c4e7599244480482f00e3a901206f7b031bd` | `8ff040d983102130d56d923a0455dba89f2a18f3953a9f3592e7bf8bf96f6da8` | `2026-06-20_latidos-heridos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
