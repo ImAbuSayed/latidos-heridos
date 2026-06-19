@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Latidos 
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T00:32:33.058472 | `v1` | `379a4cb83da8adfd1633b31a4e36c4e7599244480482f00e3a901206f7b031bd` | `8ff040d983102130d56d923a0455dba89f2a18f3953a9f3592e7bf8bf96f6da8` | `2026-06-20_latidos-heridos-v1.txt` |
+| 2026-06-20T00:38:27.061946 | `v2` | `56fc83d04421a97d6044d85ae6db91bd98b2cd48b9d8977727d43e49f3a44e43` | `71199ed0be09fd94004913f00bea9e379396029f50ef98d3627d40556f74afa7` | `2026-06-20_latidos-heridos-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
